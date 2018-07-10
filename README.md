@@ -6,7 +6,8 @@
 <h1>How It's Made:</h1>
 Tech used: HTML, CSS, JavaScript.
 
-<h1>Lessons Learned:</h>
+<h1>Lessons Learned:</h1>
+
 I had a problem with my buttons, when clicked on the left key, I had to click a couple times for it to work. I will be adding code to remove the buttons and users can use the keyboard keys.
 
 Examples:
